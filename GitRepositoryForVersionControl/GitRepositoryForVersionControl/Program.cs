@@ -6,10 +6,10 @@ namespace GitRepositoryForVersionControl
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Program To Odd Even from 1 to 100");
-            int[] odd = new int[50];
-            int[] even = new int[50];
-            for(int i = 1,j=0,k=0; i < 101; i++)
+            Console.WriteLine("Program To Odd Even from 1 to 500");
+            int[] odd = new int[250];
+            int[] even = new int[250];
+            for(int i = 1,j=0,k=0; i < 501; i++)
             {
                 if(i%2==0)
                 {
