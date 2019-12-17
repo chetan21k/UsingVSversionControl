@@ -1,0 +1,11 @@
+C:\Users\Chetan.Kothari\source\repos\GitRepositoryForVersionControl\GitRepositoryForVersionControl\bin\Debug\netcoreapp3.1\GitRepositoryForVersionControl.exe
+C:\Users\Chetan.Kothari\source\repos\GitRepositoryForVersionControl\GitRepositoryForVersionControl\bin\Debug\netcoreapp3.1\GitRepositoryForVersionControl.deps.json
+C:\Users\Chetan.Kothari\source\repos\GitRepositoryForVersionControl\GitRepositoryForVersionControl\bin\Debug\netcoreapp3.1\GitRepositoryForVersionControl.runtimeconfig.json
+C:\Users\Chetan.Kothari\source\repos\GitRepositoryForVersionControl\GitRepositoryForVersionControl\bin\Debug\netcoreapp3.1\GitRepositoryForVersionControl.runtimeconfig.dev.json
+C:\Users\Chetan.Kothari\source\repos\GitRepositoryForVersionControl\GitRepositoryForVersionControl\bin\Debug\netcoreapp3.1\GitRepositoryForVersionControl.dll
+C:\Users\Chetan.Kothari\source\repos\GitRepositoryForVersionControl\GitRepositoryForVersionControl\bin\Debug\netcoreapp3.1\GitRepositoryForVersionControl.pdb
+C:\Users\Chetan.Kothari\source\repos\GitRepositoryForVersionControl\GitRepositoryForVersionControl\obj\Debug\netcoreapp3.1\GitRepositoryForVersionControl.csprojAssemblyReference.cache
+C:\Users\Chetan.Kothari\source\repos\GitRepositoryForVersionControl\GitRepositoryForVersionControl\obj\Debug\netcoreapp3.1\GitRepositoryForVersionControl.AssemblyInfoInputs.cache
+C:\Users\Chetan.Kothari\source\repos\GitRepositoryForVersionControl\GitRepositoryForVersionControl\obj\Debug\netcoreapp3.1\GitRepositoryForVersionControl.AssemblyInfo.cs
+C:\Users\Chetan.Kothari\source\repos\GitRepositoryForVersionControl\GitRepositoryForVersionControl\obj\Debug\netcoreapp3.1\GitRepositoryForVersionControl.dll
+C:\Users\Chetan.Kothari\source\repos\GitRepositoryForVersionControl\GitRepositoryForVersionControl\obj\Debug\netcoreapp3.1\GitRepositoryForVersionControl.pdb
